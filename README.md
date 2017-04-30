@@ -1,4 +1,4 @@
-# InfiniteCat
+# InfiniteCat [![Build Status](https://travis-ci.org/InfiniteCat/InfiniteCat.svg?branch=master)](https://travis-ci.org/InfiniteCat/InfiniteCat)
 
 ## Contributing
 
